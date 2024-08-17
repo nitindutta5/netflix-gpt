@@ -12,4 +12,6 @@ Browse(after auth)
             Movie List 
 Netflix gpt
     Search bar 
-    Movie Suggestion        
+    Movie Suggestion
+
+Firebase Setup            
