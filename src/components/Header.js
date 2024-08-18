@@ -30,7 +30,7 @@ function Header() {
           navigate("/")
         }
       });
-      () => {
+      return () => {
         unSubscribe();
       }
   },[])
