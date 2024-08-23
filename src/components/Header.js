@@ -42,6 +42,7 @@ function Header() {
         <img
           src={USER_ICON}
           className="w-12 h-12 "
+          alt="user"
         />
         <button
           className="p-2 text-white font-bold text-center w-full rounded-lg"

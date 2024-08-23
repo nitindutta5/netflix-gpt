@@ -113,7 +113,7 @@ function Login() {
           ref={password}
           type="password"
           placeholder="Password"
-          className="p-3 mb-4 w-full  bg-black text-white border-white placeholder-white border bborder-t[0.5px] rounded-sm"
+          className="p-3 mb-4 w-full  bg-black text-white border-white placeholder-white border border-t[0.5px] rounded-sm"
         />
         {errorMessage && (
           <p className="text-red-700 text-sm font-bold pb-2">{errorMessage}</p>
